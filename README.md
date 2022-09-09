@@ -54,6 +54,8 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Obcl_O?referralCode=seac4z)
+
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
