@@ -409,8 +409,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/Knmlpro2update'),
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/Knmlpro2support_bot')
+            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/Knmlpro2update'),
+            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/Knmlpro2support_bot')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
