@@ -409,8 +409,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/Knmlpro2update'),
-            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/Knmlpro2support_bot')
+            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/hakthiniwaitmadu'),
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
@@ -443,7 +442,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⭕ Updates', url='https://t.me/Knmlpro2'),
+            InlineKeyboardButton('⭕ Updates', url='https://t.me/hakthiniwaitmadu'),
             InlineKeyboardButton('🆘 Source', callback_data='')
         ], [
             InlineKeyboardButton('🏛️ Home', callback_data='start'),
