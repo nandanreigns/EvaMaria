@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/akrcreation2/EvaMaria",
-    "repository": "https://github.com/akrcreation2/EvaMaria",
+    "website": "https://github.com/nandanreigns/EvaMaria",
+    "repository": "https://github.com/nandanreigns/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
